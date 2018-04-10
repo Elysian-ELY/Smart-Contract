@@ -1,0 +1,6 @@
+{
+  "reporterEnabled": "eth-gas-reporter, mocha-junit-reporter",
+  "reporterOptions": {
+    "mochaFile": "reports/junitresults.xml"
+  }
+}
